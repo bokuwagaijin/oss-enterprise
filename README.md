@@ -17,6 +17,7 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+Richard and no one else
 
 ## License
 
